@@ -1,4 +1,4 @@
-### Hi there, I'm Simon - aka [SJK]
+### Hi there, I'm Simon
 
 ## I'm a Student, and Developer!!!
 
