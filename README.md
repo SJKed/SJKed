@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Developer!!!
 
-- 🔭 Currently studying junior fullstack development whilst making side projects; currently: [YGOProject][project]!
+- 🔭 Currently studying junior fullstack development whilst making side projects
 - 🌱 I’m currently learning Database Architecture and Server Technologies
 - 🥅 2022 Goals: Absorb all the knowledge! ψ(｀∇´)ψ
 
@@ -26,6 +26,5 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 
-[project]: https://github.com/SJKed/CardGameTest
 [instagram]: https://www.instagram.com/simon_jurstedt/
 [linkedin]: https://www.linkedin.com/in/simon-jurstedt-b847a41a6/
