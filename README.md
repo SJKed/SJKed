@@ -8,8 +8,9 @@
 
 ## Current project
 Making a library of repositories to be used as resources for learning
-[Orientation in Object Orientation](https://github.com/SJKed/Orientation-in-Object-Orientation)
-[Architecture in Sequelize-CLI](https://github.com/SJKed/Architecture)
+
+* [Orientation in Object Orientation](https://github.com/SJKed/Orientation-in-Object-Orientation)
+* [Architecture in Sequelize-CLI](https://github.com/SJKed/Architecture)
 
 
 ### Connect with me:
