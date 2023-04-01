@@ -2,9 +2,9 @@
 
 ## I'm a Student, and Developer!!!
 
-- 🔭 Currently studying junior fullstack development whilst making side projects
-- 🌱 I’m currently learning Database Architecture and Server Technologies
-- 🥅 2022 Goals: Absorb all the knowledge! ψ(｀∇´)ψ
+- 🔭 Currently studying fullstack development whilst making side projects
+- 🌱 I’m currently learning more indepth about frontend frameworks and security
+- 🥅 2023 Goals: Absorb all the knowledge! ψ(｀∇´)ψ
 
 ## Current project
 Making a library of repositories to be used as resources for learning
