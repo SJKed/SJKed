@@ -4,7 +4,7 @@
 
 - 🔭 Currently studying fullstack development whilst making side projects
 - 🌱 I’m currently learning more indepth about frontend frameworks and security
-- 🥅 2023 Goals: Absorb all the knowledge! ψ(｀∇´)ψ
+- 🥅 2023 Goals: Deploy a side project i'm working on behind the scenes.
 
 ## Current project
 Making a library of repositories to be used as resources for learning
