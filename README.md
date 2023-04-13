@@ -1,9 +1,9 @@
 ### Hi there, I'm Simon
 
-## I'm a Student, and Developer!!!
+## I'm a Student, and Developer.
 
 - 🔭 Currently studying fullstack development whilst making side projects
-- 🌱 I’m currently learning more indepth about frontend frameworks and security
+- 🌱 I’m currently learning more about design and security principles
 - 🥅 2023 Goals: Deploy a side project i'm working on behind the scenes.
 
 ## Current project
