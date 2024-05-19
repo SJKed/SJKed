@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about neural networks
 
 ## Current project
-Creating and learning about neural networks to predict results in competative games both sports/e-sports using historical data
+Creating and learning about neural networks to predict results in competative sports/e-sports using historical data.
 
 ## Previous Projects
 Library of repositories to be used as resources for learning
