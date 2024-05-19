@@ -35,6 +35,7 @@ Library of repositories to be used as resources for learning
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" />
 <img align="left" alt="Java" width="26px" src="https://play-lh.googleusercontent.com/Gwj_E5u_VCKXCM2JuedvsOnTN4REq_m68RKB6NQM5X4kT6mpHrqHP27uoRp6B7QX-3w" />
+<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" />
 
 
 
