@@ -1,7 +1,3 @@
-### Hi there.
-
-## I make stuff.
-
 - 🔭 Currently working as a Technical Consultant working with deliveries at Pythagoras AB
 
 ### Connect with me:
@@ -28,4 +24,5 @@
 
 [instagram]: https://www.instagram.com/simon_jurstedt/
 [linkedin]: https://www.linkedin.com/in/simon-jurstedt-b847a41a6/
+
 
