@@ -1,29 +1,16 @@
-### Hi there, I'm Simon
+### Hi there.
 
-## I'm a Student, and Developer.
+## I make stuff.
 
 - 🔭 Currently working as a Technical Consultant working with deliveries at Pythagoras AB
-- 🌱 I’m currently learning about neural networks
-
-## Current project
-Creating and learning about neural networks to predict results in competative sports/e-sports using historical data.
-
-## Previous Projects
-Library of repositories to be used as resources for learning
-
-* [Orientation in Object Orientation](https://github.com/SJKed/Orientation-in-Object-Orientation)
-* [Architecture in Sequelize-CLI](https://github.com/SJKed/Architecture)
-
 
 ### Connect with me:
-
 [<img align="left" alt="SimonJurstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SimonJurstedt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -41,3 +28,4 @@ Library of repositories to be used as resources for learning
 
 [instagram]: https://www.instagram.com/simon_jurstedt/
 [linkedin]: https://www.linkedin.com/in/simon-jurstedt-b847a41a6/
+
