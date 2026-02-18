@@ -1,4 +1,5 @@
-- 🔭 Currently working as a Technical Consultant working with deliveries at Pythagoras AB
+🔭 Currently working as a Technical Consultant working with deliveries at Pythagoras AB.
+The rest is a secret 🤫
 
 ### Connect with me:
 [<img align="left" alt="SimonJurstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,5 +25,6 @@
 
 [instagram]: https://www.instagram.com/simon_jurstedt/
 [linkedin]: https://www.linkedin.com/in/simon-jurstedt-b847a41a6/
+
 
 
